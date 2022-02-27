@@ -1,0 +1,1 @@
+{"id":"3aeb7827-26d5-4ff6-8a04-3603a6eabdfc","space":11230,"runtime":"nodejs14.x","name":"DealthyBackend","path":"qclhnp","project":"b0ushsm7","account":"144798365827","region":"us-west-1","deps":["dotenv@^16.0.0","fastify@^3.27.2","solc@^0.8.12","@hashgraph/sdk@^2.7.0"],"envs":null,"public":true,"log_level":"debug","cron":""}
